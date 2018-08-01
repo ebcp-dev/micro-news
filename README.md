@@ -34,3 +34,4 @@
   - I get a database error everytime I run the tests.
 - Implement authentication services.
   - I would have implemented a jwt authentication service, but I don't have a lot of experience with Micro so I couldn't get it done in a timely manner.
+- Integrate Travis CI (it's what I'm used to).
